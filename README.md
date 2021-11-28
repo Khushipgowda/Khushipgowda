@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushipgowda
-- 👀 I’m interested in Web development,cyber security,game development,mobile app developer.
+- 👀 I’m interested in Web development,cyber security,multimedia programming,mobile app developer.
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
