@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Khushipgowda
-- 👀 I’m interested in Web development,cyber security,multimedia programming,mobile app developer.
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About Me:
+- 🎓 Pursuing Master's in Software Engineering Systems at Northeastern University.
+- 🎓 Bachelor's in Computer Science and Engineering
+- 💻 Experienced in Python Programming, Classic Machine Learning, Big Data Engineering and Analysis, GenAI
+- 🤖 Strong Understanding in Data Structures and Algorithms
 
-<!---
-Khushipgowda/Khushipgowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Check out my repositories to see my contributions!
